@@ -1,0 +1,5 @@
+#user-list {
+    max-height: relative;
+    overflow-y: scroll;
+    height: 65vh;
+}

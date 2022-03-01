@@ -1,0 +1,5 @@
+#tool-bar {
+    position: static;
+    border-bottom: solid 4px rgb(97, 97, 97);
+    padding: 20px;
+}

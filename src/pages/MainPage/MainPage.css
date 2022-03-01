@@ -1,0 +1,6 @@
+.app-box {
+    box-shadow: -0.5rem 0.5rem 0.5rem grey;
+    background-color: rgb(241, 241, 241);
+    margin-top: 7%;
+    overflow-y: hidden;
+}
